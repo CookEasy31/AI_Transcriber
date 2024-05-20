@@ -1,0 +1,10 @@
+PyQt5
+whisper
+whisper-openai
+pyaudio
+torch
+torchaudio
+torchvision
+pyperclip
+ffmpeg
+pyinstaller
